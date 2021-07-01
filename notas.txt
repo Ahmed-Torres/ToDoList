@@ -1,0 +1,4 @@
+npx create-react-app to-do-list(desde cmd, parado en carpeta Development, crea proyecto)
+npm i bootstrap react-bootstrap short-id
+
+
